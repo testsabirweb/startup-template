@@ -9,7 +9,7 @@ Startup Template comes with all essential sections and elements a complete websi
 ### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components (design)
 
 
-### [🚀 View Demo](https://startup.hau.xyz/)
+### [🚀 View Demo](https://shayancloudservices.com/)
 
 ### [⬇️ Download Now](https://github.com/devhau/startup-template)
 
