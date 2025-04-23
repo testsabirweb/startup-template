@@ -2720,6 +2720,10 @@ input:checked + .slider::before {
   background-color: #121b29f0; /* Dark blue-gray */
   color: #ffffff;
 }
+.ud-header.dark-theme.sticky {
+  background: #0d1117e5; /* Dark blue-gray */
+  color: #ffffff;
+}
 
 .ud-header.dark-theme .navbar .nav-item > a {
   color: #ffffff;
@@ -2733,10 +2737,19 @@ input:checked + .slider::before {
 .ud-header.dark-theme .startup-logo {
   color: #ffffff;
 }
-
+.ud-header.dark-theme .navbar-nav .nav-item .ud-submenu .ud-submenu-link {
+  color: #ffffff;
+}
+.ud-header.dark-theme .navbar-nav .nav-item .ud-submenu .ud-submenu-link:hover{
+  color: #7A8FC7;
+}
+.ud-header.dark-theme .ud-submenu {
+  background-color: #1b1f25;
+  box-shadow: none;
+}
 /* Hero Section */
 .ud-hero.dark-theme {
-  background-color: #0d1117;
+  background-color: #121a28;
   color: #ffffff;
 }
 
@@ -2834,3 +2847,61 @@ input:checked + .slider::before {
   color: #cbd5e1;
 }
 /* About section */
+
+/* testimonal Section */
+
+.ud-testimonials.dark-theme {
+  background: #0d1117;
+}
+.ud-testimonials.dark-theme h2 {
+  color: #e6e6e6;
+}
+.ud-testimonials.dark-theme .ud-single-testimonial {
+  background: #0d1117;
+}
+.ud-testimonials.dark-theme .ud-single-testimonial {
+  box-shadow: 0px 0px 10px 0px #ebeffd34;
+}
+/* testimonal Section */
+
+/* team Section */
+.ud-team.dark-theme {
+  background-color: #0d1117;
+}
+.ud-team.dark-theme h2 {
+  color: #e6e6e6;
+}
+.ud-team.dark-theme .ud-team-info h5 {
+  color: #e6e6e6;
+}
+/* team Section */
+
+/* message section */
+.ud-contact.dark-theme {
+  background-color: #0d1117;
+}
+.ud-contact.dark-theme h2 {
+  color: #e6e6e6;
+}
+.ud-contact.dark-theme .ud-contact-title span {
+  color: #e6e6e6;
+}
+.ud-contact.dark-theme .ud-info-meta h5 {
+  color: #e6e6e6;
+}
+.ud-contact.dark-theme .ud-contact-form-wrapper {
+  color: #e6e6e6;
+  background-color: #1b1f25;
+}
+.ud-contact.dark-theme .ud-contact-form-title {
+  color: #e6e6e6;
+}
+.ud-contact.dark-theme .ud-form-group input {
+  background-color: transparent;
+  color: white;
+}
+.ud-contact.dark-theme .ud-form-group textarea {
+  color: white;
+  background-color: transparent;
+}
+/* message section */

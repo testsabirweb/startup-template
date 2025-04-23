@@ -99,11 +99,11 @@
                         Blog Details Page
                       </a>
                     </li>
-                    <li class="ud-submenu-item">
+                    <!-- <li class="ud-submenu-item">
                       <a href="login.html" class="ud-submenu-link">
                         Sign In Page
                       </a>
-                    </li>
+                    </li> -->
                     <li class="ud-submenu-item">
                       <a href="404.html" class="ud-submenu-link">404 Page</a>
                     </li>
@@ -1104,12 +1104,18 @@
     const hero = document.querySelector(".ud-hero");
     const features = document.querySelector(".ud-features");
     const about = document.querySelector(".ud-about");
+    const testimonial = document.querySelector(".ud-testimonials");
+    const team = document.querySelector(".ud-team");
+    const message = document.querySelector(".ud-contact");
 
     toggle.addEventListener("change", function () {
       header.classList.toggle("dark-theme");
       hero.classList.toggle("dark-theme");
       features.classList.toggle("dark-theme");
       about.classList.toggle("dark-theme");
+      testimonial.classList.toggle("dark-theme");
+      team.classList.toggle("dark-theme");
+      message.classList.toggle("dark-theme");
     });
 
 
