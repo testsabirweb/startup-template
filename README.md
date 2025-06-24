@@ -23,7 +23,7 @@ Startup Template comes with all essential sections and elements a complete websi
 
 **Email**: nguyenvanhaudev@gmail.com
 
-**Discord**: https://discord.gg/CXpVpvBK 
+**Discord**: https://discord.gg/WsvJ6jpU
 
 
 **Facebook**: https://www.facebook.com/groups/sokeio
