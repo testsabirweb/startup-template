@@ -15,15 +15,15 @@ Startup Template comes with all essential sections and elements a complete websi
 
 ## Contact US:
 
-**Website**: https://sokeio.com/
+**Demo**: https://startup.hau.xyz/
 
-**Lorem Ipsum AI Generator**: https://lipsumai.com/ai-generator
+**Online Web Tools**: https://lipsumai.com
 
 **My Website**: https://hau.xyz/
 
 **Email**: nguyenvanhaudev@gmail.com
 
-**Discord**: https://discord.gg/CXpVpvBK 
+**Discord**: https://discord.gg/WsvJ6jpU
 
 
 **Facebook**: https://www.facebook.com/groups/sokeio
